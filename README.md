@@ -45,10 +45,15 @@ https://github.com/crazycodeboy/TakePhoto/
 
 #**View**
 
-##shape
+##Shape
 
 >https://github.com/duanhong169/GradientDrawableTuner?utm_source=gold_browser_extension
 >>直观地了解Android的“形状”属性如何影响Drawable的外观
+
+##ViewPager
+
+>https://github.com/wurensen/GraceViewPager?utm_source=gold_browser_extension
+>>自定义ViewPager,修复ViewPager在实际项目使用过程中，出现数据刷新使用姿势不正确、动画偏移、动态修改width、paddingLeft、paddingRight、pageMargin导致当前page滚动位置定位异常。
 
 
 
